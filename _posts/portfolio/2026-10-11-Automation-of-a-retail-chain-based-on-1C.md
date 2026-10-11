@@ -1,6 +1,6 @@
 ---
 title: Автоматизация сети продуктовой розницы на базе 1С
-date: 2026-10-11 00:00:00 +/-TTTT
+date: 2026-10-11 00:00:00 +0400
 description: Кейсы по автоматизации сети розничных магазинов
 media_subpath: /assets/posts/portfolio/2026-10-11-Automation-of-a-retail-chain-based-on-1C/
 categories: [Портфолио]
